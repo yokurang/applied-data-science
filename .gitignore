@@ -1,0 +1,15 @@
+# Ignore RStudio project files
+.Rproj.user/
+.Rhistory
+.RData
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore other common R temporary files
+*.Rproj
+*.Rproj.user
+
+# Ignore session-specific files
+*.Rapp.history
+

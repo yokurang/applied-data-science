@@ -1,0 +1,189 @@
+---
+title: "W1"
+author: "Alan"
+date: "2025-01-14"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r}
+library(tinytex)
+library(magrittr)
+library(tidyverse)
+```
+
+```{r}
+df <- read.csv("superstore.csv", stringsAsFactors = T)
+```
+
+```{r}
+head(df)
+```
+
+```{r}
+df1 <- df %>% select(State, Region, Sales)
+tail(df1, 3)
+```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+df2 <- df %>% filter(Region == "Central") %>% group_by(Ship.Mode) %>% summarise(n = n(), AverageProfit = mean(Profit), TotalSales = sum(Sales))
+
+str(df2)
+df2
+```
+
+```{r}
+states <- df %>% group_by(State)
+states %>% summarise(MedianProfit = median(Profit)) %>% arrange(desc(MedianProfit))
+```
+
+```{r}
+negative_profit <- df %>% filter(Profit < 0) 
+average_sales_of_negative_profit_sales <- negative_profit %>% select(Sales)
+average_sales_of_negative_profit_average_sales <- sum(average_sales_of_negative_profit_sales) / length(average_sales_of_negative_profit_sales)
+average_sales_of_negative_profit_average_sales
+```
+
+# CPI Dataset
+
+```{r}
+library(xlsx)
+library(readxl)
+```
+
+```{r}
+cpi <- read_xlsx("cpi.xlsx")
+head(cpi)
+```
+
+```{r}
+for (x in 10:22) {
+  col_name <- paste0("20",x)
+  cpi[[col_name]] <- as.numeric(cpi[[col_name]])
+}
+head(cpi)
+```
+
+```{r}
+cpi.tidy <- cpi %>% na.omit() %>% pivot_longer(-Variables, names_to = "year", values_to = "cpi")
+head(cpi.tidy)
+```
+
+```{r}
+cpi.tidy$year <- as.numeric(cpi.tidy$year)
+
+cpi.subyear <- cpi %>% select(c("Variables":"2018"))
+
+cpi.subyear.tidy <-
+  cpi.subyear %>% 
+  na.omit() %>% 
+  pivot_longer(-Variables, names_to = "year", values_to = "cpi")
+
+cpi.subyear.tidy %>% filter(Variables == "Vitamin Enriched Bread (Per 400 Gram)" | Variables == "Ordinary White Bread (Per 400 Gram)") %>% 
+  group_by(Variables) %>% 
+  summarise(AvgCPI = mean(cpi))
+```
+
+# Plotting Using GGPlot 
+
+```{r}
+country <- read_xlsx("country.xlsx")
+happy <- read_xls("happy.xls")
+```
+
+```{r}
+head(country)
+```
+
+```{r}
+head(happy)
+```
+
+```{r}
+country.joined <- inner_join(country, happy, by = "country")
+head(country.joined)
+colnames(country.joined)
+```
+
+```{r}
+ggplot(country.joined, mapping = aes(x = avg_happiness_score, y = life_expectancy, color = region)) + geom_point() + theme_minimal() + labs(x = "Average Happiness", y = "Life Expectancy", title = "Life Exp vs. Avg Happiness")
+```
+
+```{r}
+library(GGally)
+country.joined %>% select(avg_happiness_score, life_expectancy, log_gdp) %>% ggpairs()
+```
+
+```{r}
+hr <- read.csv("hr.csv")
+colnames(hr)
+```
+
+```{r}
+highest_department <- hr %>%
+  group_by(department) %>%
+  summarise(Employee_Count = n()) %>%
+  arrange(desc(Employee_Count))
+highest_department
+```
+
+```{r}
+salary_mean <- hr %>%
+  filter(employmentstatus == "Voluntarily Terminated") %>% 
+  summarise(Salary_Mean = mean(salary))
+
+salary_mean
+```
+
+```{r}
+salary_variance_by_termination <- hr %>%
+  group_by(terminationreason) %>%
+  summarise(Salary_SD = sd(salary)) %>%
+  arrange(desc(Salary_SD))
+
+salary_variance_by_termination
+```
+
+```{r}
+colnames(hr)
+```
+
+```{r}
+library(lubridate)
+
+# Add age column to the dataset
+hr <- hr %>%
+  mutate(
+    dob = as.Date(dob, format = "%Y-%m-%d"),  # Ensure dob is in Date format
+    age = floor(as.numeric(difftime(Sys.Date(), dob, units = "days")) / 365.25)  # Calculate age in years
+  )
+
+# Check the updated dataset
+head(hr)
+```
+
+```{r}
+hr <- hr %>%
+  mutate(
+    # Convert dob to Date format (assuming "07-10-83" means "07-Oct-1983")
+    dob = as.Date(dob, format = "%d-%m-%y"),
+    # Calculate age in days from today
+    age_in_days = as.numeric(difftime(Sys.Date(), dob, units = "days"))
+  )
+
+# Check the updated dataset
+head(hr)
+```
+
+
+
+
+
+
+
+

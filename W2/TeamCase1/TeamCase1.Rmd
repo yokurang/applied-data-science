@@ -1,0 +1,176 @@
+---
+title: "TCase"
+author: "Alan"
+date: "2025-01-24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+hr <- read.csv("hr.csv")
+```
+
+```{r}
+library(tinytex)
+library(magrittr)
+library(tidyverse)
+library(stringi)
+```
+
+# Q1
+
+```{r}
+#colnames(hr)
+unique(hr$performancescore)
+str(unique(hr$performancescore))
+#sum(is.na(hr))
+```
+
+```{r}
+performance_code <- c("PIP", "Needs improvement", "Fully meets", "Exceeds")
+performance_code[1]
+```
+
+```{r}
+performance_score_description <- hr %>% 
+  group_by(performancescore) %>% 
+  summarize(Count = n(), "Average Salary" = mean(salary),
+            "Standard Deviation Salary" = sd(salary)) %>% 
+  mutate(performancescoredescription = 
+           performance_code[performancescore]) %>% 
+  relocate(performancescoredescription, .after = performancescore)
+performance_score_description
+```
+
+# Visualisation 
+
+```{r}
+hr %>% mutate(performancescoredescription = 
+           performance_code[performancescore]) %>% 
+  mutate(performancescoredescription = as.factor(performancescoredescription)) %>% 
+  ggplot(mapping = aes(x = performancescoredescription, y = salary)) + geom_boxplot() + 
+  labs(title = "Boxplot of Salary by Performance Description",
+       x = "Performance Score Description",
+       y = "Salary") + 
+    stat_summary(
+    fun = length,
+    geom = "text",
+    aes(label = paste0(..y.., " Obs.")), 
+    color = "blue",
+  ) 
+```
+
+# Q3
+
+```{r}
+hr.dob <- hr
+hr.dob <- hr.dob %>% mutate(dob = as.character(dob))
+hr.dob$age <- hr.dob$dob %>% str_sub(-2,-1)
+# checked that all years are before 2000
+hr.dob$age <- as.numeric(year(Sys.Date())) - as.numeric(paste0("19",hr.dob$age))
+```
+
+```{r}
+hr.dob %>% mutate(performancescoredescription = 
+           performance_code[performancescore]) %>%
+  mutate(performancescoredescription = as.factor(performancescoredescription)) %>% 
+  group_by(performancescoredescription) %>% 
+  summarise(MinAge = min(age), MaxAge = max(age))
+```
+
+```{r}
+hr.dob %>% mutate(performancescoredescription = 
+           performance_code[performancescore]) %>% 
+  mutate(performancescoredescription = as.factor(performancescoredescription)) %>% 
+  ggplot(mapping = aes(x = performancescoredescription, y = age)) + geom_boxplot() + 
+  labs(title = "Boxplot of Age by Performance Description",
+       x = "Performance Score Description",
+       y = "Age") 
+```
+
+# Q4
+
+```{r}
+age_rows = nrow(hr.dob)
+age_by_status <- hr.dob %>%
+  group_by(employmentstatus) %>%
+  summarize(
+    Count = n(),
+    Average_Age = mean(age, na.rm = TRUE),
+    Median_Age = median(age, na.rm = TRUE),
+    Min_Age = min(age, na.rm = TRUE),
+    Max_Age = max(age, na.rm = TRUE),
+    SD_Age = sd(age, na.rm = TRUE),
+    Percentage = n() / age_rows * 100
+  )
+
+age_by_status
+```
+
+```{r}
+ggplot(hr.dob, aes(x = employmentstatus, y = age, fill = employmentstatus)) +
+  geom_boxplot(outlier.color = "red", outlier.shape = 16) +
+  labs(
+    title = "Age Distribution by Employment Status",
+    x = "Employment Status",
+    y = "Age"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+# Were employees who left the company generally younger?
+
+No because from the boxplot we can see that on average a person who was Terminated for Cause was slightly younger than an average person who was Active. Similarly, those who were Voluntarily Terminated were slightly older than those who were Active. Furthermore, the median ages of those who were Terminated for Cause, Voluntarily Terminated, and Active are very close together, and so further add that we cannot conclude that the employees who left were generally younger. 
+
+# Q5: Perform another analysis based on your team's hypothesis.
+
+Hypothesis: From our previous analysis, people who left were not generally younger. So we need to look deeper into the subset of people we are interested in, i.e those who were Voluntarily Terminated, and identify the leading causes of voluntary termination to propose a strategy for employee retention. Our initial hypothesis is that people are voluntarily leaving the company due to retirement. 
+
+Our strategy to validate our hypothesis will be to look into those who were Voluntarily Terminated and identify the leading causes of voluntary termination. As a follow up, we will repeat this process of those who were Terminated for Cause. 
+
+```{r}
+hr.vt <- hr[hr$employmentstatus == "Voluntarily Terminated",]
+hr.vt %>% group_by(terminationreason) %>% summarise(Count = n()) %>% arrange(desc(Count))
+```
+
+The results shows that the top 3 reasons for voluntary termination are 1) Another position, 2) unhappy, and 3) more money. Furthermore, retirement (Row 9) is not a common reason for leaving the company, suggesting that our initial hypothesis was incorrect. Instead, we believe that the main cause of this may be due to better career opportunities and compensation elsewhere. Given these reasons, we propose creating a more structured career plan for employees in the company that clearly outlines a pathway for individuals to specialize and grow in their field on interest, and provide clear expectations on salary growth based on performance. To validate this view, we may also recommend the HR team to collect exit surveys to get more specific information as to why they are unhappy and where they are going after leaving the company. Furthermore, to provide an initial comment on potential results of the exit survey, given our current observations, we hypothesise that people are leaving for positions that have better hours (from Row 5), and more money (Row 3). 
+
+## Follow Up: On Termination for Cause
+
+1) No call because already another job 
+
+```{r}
+hr.tfc <- hr[hr$employmentstatus == "Terminated for Cause",]
+hr.tfc %>% group_by(terminationreason) %>% summarise(Count = n()) %>% arrange(desc(Count))
+```
+
+From the results, we can see that the majority reason for termination for cause is due to poor attendance and no-call, no-show. 
+
+```{r}
+hr.tfc %>% group_by(jobsatisfactionscore) %>% summarise(Count = n()) %>% arrange(desc(Count))
+
+hr.tfc %>%
+  mutate(
+    satisfaction_bucket = cut(
+      jobsatisfactionscore,
+      breaks = seq(0, 5, by = 1),  
+      include.lowest = TRUE,      
+      right = FALSE               
+    )
+  ) %>%
+  group_by(satisfaction_bucket) %>%
+  summarise(Count = n()) %>%
+  arrange(desc(Count))
+
+```
+
+
+
+
+

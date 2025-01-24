@@ -1,0 +1,312 @@
+name,empid,maritalstatusid,performancescore,salary,position,dob,gender,dateofhire,dateoftermination,terminationreason,employmentstatus,department,managername,jobsatisfactionscore,absences
+"Adinolfi, Wilson  K",10026,0,4,62506,Production Technician I,07-10-83,M ,07-05-11,,N/A-StillEmployed,Active,Production       ,Michael Albert,4.6,1
+"Ait Sidi, Karthikeyan   ",10084,1,3,104437,Sr. DBA,05-05-75,M ,3/30/2015,6/16/2016,career change,Voluntarily Terminated,IT/IS,Simon Roup,4.96,17
+"Akinkuolie, Sarah",10196,1,3,64955,Production Technician II,09/19/88,F,07-05-11,9/24/2012,hours,Voluntarily Terminated,Production       ,Kissy Sullivan,3.02,3
+"Alagbe,Trina",10088,1,3,64991,Production Technician I,09/27/88,F,01-07-08,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.84,15
+"Anderson, Carol ",10069,2,3,50825,Production Technician I,09-08-89,F,07-11-11,09-06-16,return to school,Voluntarily Terminated,Production       ,Webster Butler,5,2
+"Anderson, Linda  ",10002,0,4,57568,Production Technician I,05/22/77,F,01-09-12,,N/A-StillEmployed,Active,Production       ,Amy Dunn,5,15
+"Andreola, Colby",10194,0,3,95660,Software Engineer,05/24/79,F,11-10-14,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,3.04,19
+"Athwal, Sam",10062,4,3,59365,Production Technician I,02/18/83,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,5,19
+"Bachiochi, Linda",10114,0,3,47837,Production Technician I,02-11-70,F,07-06-09,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.46,4
+"Bacong, Alejandro ",10250,2,3,50178,IT Support,01-07-88,M ,01-05-15,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,5,16
+"Baczenski, Rachael  ",10252,1,3,54670,Production Technician I,01-12-74,F,01-10-11,01-12-17,Another position,Voluntarily Terminated,Production       ,David Stanley,4.2,12
+"Barbara, Thomas",10242,1,3,47211,Production Technician I,02/21/74,M ,04-02-12,9/19/2016,unhappy,Voluntarily Terminated,Production       ,Kissy Sullivan,4.2,15
+"Barbossa, Hector",10012,2,4,92328,Data Analyst,07-04-88,M ,11-10-14,,N/A-StillEmployed,Active,IT/IS,Simon Roup,4.28,9
+"Barone, Francesco  A",10265,0,3,58709,Production Technician I,07/20/83,M ,2/20/2012,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.6,7
+"Barton, Nader",10066,2,3,52505,Production Technician I,07/15/77,M ,9/24/2012,04-06-17,Another position,Voluntarily Terminated,Production       ,Michael Albert,5,1
+"Bates, Norman",10061,0,3,57834,Production Technician I,10/18/81,M ,2/21/2011,08-04-17,attendance,Terminated for Cause,Production       ,Kelley Spirea,5,20
+"Beak, Kimberly  ",10023,1,4,70131,Production Technician II,04/17/66,F,7/21/2016,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.4,16
+"Beatrice, Courtney ",10055,0,3,59026,Production Technician I,10/27/70,F,04-04-11,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,5,12
+"Becker, Renee",10245,0,3,110000,Database Administrator,04-04-86,F,07-07-14,09-12-15,performance,Terminated for Cause,IT/IS,Simon Roup,4.5,8
+"Becker, Scott",10277,0,3,53250,Production Technician I,04-06-79,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,Webster Butler,4.2,13
+"Bernstein, Sean",10046,0,3,51044,Production Technician I,12/22/70,M ,04-02-12,,N/A-StillEmployed,Active,Production       ,Amy Dunn,5,13
+"Biden, Lowan  M",10226,2,3,64919,Production Technician I,12/27/58,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.2,2
+"Billis, Helen",10003,1,4,62910,Production Technician I,09-01-89,F,07-07-14,,N/A-StillEmployed,Active,Production       ,Brannon Miller,5,19
+"Blount, Dianna",10294,0,2,66441,Production Technician II,09/21/90,F,04-04-11,,N/A-StillEmployed,Active,Production       ,Michael Albert,2,3
+"Bondwell, Betsy",10267,0,3,57815,Production Technician II,01/16/67,F,01-10-11,04-04-14,career change,Voluntarily Terminated,Production       ,Elijiah Gray,4.8,5
+"Booth, Frank",10199,0,3,103613,Enterprise Architect,07/30/64,M ,2/17/2014,2/19/2016,Learned that he is a gangster,Terminated for Cause,IT/IS,Simon Roup,3.5,2
+"Boutwell, Bonalyn",10081,1,3,106367,Sr. Accountant,04-04-87,F,2/16/2015,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,5,4
+"Bozzi, Charles",10175,0,3,74312,Production Manager,03-10-70,M ,9/30/2013,08-07-14,retiring,Voluntarily Terminated,Production       ,Janet King,3.39,14
+"Brill, Donna",10177,1,3,53492,Production Technician I,08/24/90,F,04-02-12,6/15/2013,Another position,Voluntarily Terminated,Production       ,David Stanley,3.35,6
+"Brown, Mia",10238,1,3,63000,Accountant I,11/24/87,F,10/27/2008,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,4.5,14
+"Buccheri, Joseph  ",10184,0,3,65288,Production Technician II,07/28/83,M ,9/29/2014,,N/A-StillEmployed,Active,Production       ,Webster Butler,3.19,9
+"Bugali, Josephine ",10203,3,3,64375,Production Technician I,10/30/69,F,11-11-13,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,3.5,17
+"Bunbury, Jessica",10188,1,3,74326,Area Sales Manager,06-01-64,F,8/15/2011,08-02-14,Another position,Voluntarily Terminated,Sales,John Smith,3.14,19
+"Burke, Joelle",10107,0,3,63763,Production Technician II,03-02-80,F,03-05-12,,N/A-StillEmployed,Active,Production       ,Amy Dunn,4.51,3
+"Burkett, Benjamin ",10181,1,3,62162,Production Technician II,08/19/77,M ,04-04-11,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,3.25,15
+"Cady, Max ",10150,0,3,77692,Software Engineering Manager,11/22/66,M ,8/15/2011,,N/A-StillEmployed,Active,Software Engineering,Jennifer Zamora,3.84,4
+"Candie, Calvin",10001,0,4,72640,Production Manager,08-09-83,M ,1/28/2016,,N/A-StillEmployed,Active,Production       ,Janet King,5,14
+"Carabbio, Judith",10085,0,3,93396,Software Engineer,04-05-87,F,11-11-13,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,4.96,3
+"Carey, Michael  ",10115,0,3,52846,Production Technician I,02-02-83,M ,3/31/2014,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.43,14
+"Carr, Claudia  N",10082,0,3,100031,Sr. DBA,06-06-86,F,6/30/2016,,N/A-StillEmployed,Active,IT/IS,Simon Roup,5,7
+"Carter, Michelle ",10040,0,3,71860,Area Sales Manager,05/15/63,F,8/18/2014,,N/A-StillEmployed,Active,Sales,John Smith,5,7
+"Chace, Beatrice ",10067,0,3,61656,Production Technician I,01-02-51,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Michael Albert,5,11
+"Champaigne, Brian",10108,1,3,110929,BI Director,02-09-72,M ,09-06-16,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,4.5,8
+"Chan, Lin",10210,0,3,54237,Production Technician I,02-12-79,F,05-12-14,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,3.3,11
+"Chang, Donovan  E",10154,0,3,60380,Production Technician I,08/24/83,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,Webster Butler,3.8,4
+"Chigurh, Anton",10200,0,3,66808,Area Sales Manager,06-11-70,M ,5/14/2012,,N/A-StillEmployed,Active,Sales,Lynn Daneault,3,17
+"Chivukula, Enola",10240,0,3,64786,Production Technician I,08/27/83,F,6/27/2011,11/15/2015,relocation out of area,Voluntarily Terminated,Production       ,Amy Dunn,4.3,3
+"Cierpiszewski, Caroline  ",10168,0,3,64816,Production Technician I,05/31/88,F,10-03-11,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,3.58,3
+"Clayton, Rick",10220,0,3,68678,IT Support,09-05-85,M ,09-05-12,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,4.7,2
+"Cloninger, Jennifer",10275,1,3,64066,Production Technician II,08/31/81,F,5/16/2011,01-07-13,unhappy,Voluntarily Terminated,Production       ,Brannon Miller,4.2,9
+"Close, Phil",10269,1,3,59369,Production Technician II,11/25/78,M ,8/30/2010,9/26/2011,career change,Voluntarily Terminated,Production       ,David Stanley,4.2,6
+"Clukey, Elijian",10029,1,4,50373,Production Technician I,08/26/80,M ,07-06-16,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.1,5
+"Cockel, James",10261,0,3,63108,Production Technician I,09-08-77,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,David Stanley,4.4,3
+"Cole, Spencer",10292,0,2,59144,Production Technician I,08-12-79,M ,07-11-11,9/23/2016,performance,Terminated for Cause,Production       ,Kissy Sullivan,2,16
+"Corleone, Michael",10282,2,2,68051,Production Manager,12/17/75,M ,7/20/2010,,N/A-StillEmployed,Active,Production       ,Janet King,4.13,3
+"Corleone, Vito",10019,0,4,170500,Director of Operations,03/19/83,M ,01-05-09,,N/A-StillEmployed,Active,Production       ,Janet King,3.7,15
+"Cornett, Lisa ",10094,1,3,63381,Production Technician I,03/31/77,F,01-05-15,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.73,6
+"Costello, Frank",10193,1,3,83552,Data Analyst,08/26/86,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Simon Roup,3.04,2
+"Crimmings,   Jean",10132,0,3,56149,Production Technician I,04-10-87,F,07-06-16,,N/A-StillEmployed,Active,Production       ,Michael Albert,4.12,15
+"Cross, Noah",10083,0,3,92329,Sr. Network Engineer,09-09-65,M ,11-10-14,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,5,5
+"Daneault, Lynn",10099,0,3,65729,Sales Manager,04/19/90,F,05-05-14,,N/A-StillEmployed,Active,Sales,Debra Houlihan,4.62,8
+"Daniele, Ann  ",10212,1,3,85028,Sr. Network Engineer,01/18/52,F,11-10-14,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,3.1,19
+"Darson, Jene'ya ",10056,1,3,57583,Production Technician I,11-05-78,F,07-02-12,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,5,1
+"Davis, Daniel",10143,0,3,56294,Production Technician II,09/14/79,M ,11-07-11,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,3.96,6
+"Dee, Randy",10311,1,1,56991,Production Technician I,04/15/88,M ,07-09-18,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.3,2
+"DeGweck,  James",10070,1,3,55722,Production Technician I,10/31/77,M ,5/16/2011,06-08-16,unhappy,Voluntarily Terminated,Production       ,Webster Butler,5,14
+"Del Bosque, Keyla",10155,0,3,101199,Software Engineer,07-05-79,F,01-09-12,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,3.79,8
+"Delarge, Alex",10306,0,1,61568,Area Sales Manager,11-02-75,M ,9/29/2014,,N/A-StillEmployed,Active,Sales,John Smith,1.93,5
+"Demita, Carla",10100,3,3,58275,Production Technician II,02/25/51,F,04-04-11,11-04-15,more money,Voluntarily Terminated,Production       ,Kelley Spirea,4.62,1
+"Desimone, Carl ",10310,1,1,53189,Production Technician I,04/19/67,M ,07-07-14,,N/A-StillEmployed,Active,Production       ,Amy Dunn,1.12,9
+"DeVito, Tommy",10197,0,3,96820,BI Developer,09-04-83,M ,2/15/2017,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,3.01,15
+"Dickinson, Geoff ",10276,0,3,51259,Production Technician I,11/15/82,M ,05-12-14,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.3,1
+"Dietrich, Jenna  ",10304,0,1,59231,Area Sales Manager,05/14/87,F,2/20/2012,,N/A-StillEmployed,Active,Sales,John Smith,2.3,17
+"DiNocco, Lily ",10284,1,2,61584,Production Technician I,12-02-78,F,01-07-13,,N/A-StillEmployed,Active,Production       ,Brannon Miller,3.88,6
+"Dobrin, Denisa  S",10207,0,3,46335,Production Technician I,10-07-86,F,04-02-12,,N/A-StillEmployed,Active,Production       ,David Stanley,3.4,15
+"Dolan, Linda",10133,1,3,70621,IT Support,07/18/88,F,01-05-15,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,4.11,16
+"Dougall, Eric",10028,0,4,138888,IT Manager - Support,07-09-70,M ,01-05-14,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,4.3,4
+"Driver, Elle",10006,0,4,74241,Area Sales Manager,11-08-88,F,01-10-11,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.77,14
+"Dunn, Amy  ",10105,0,3,75188,Production Manager,11/28/73,F,9/18/2014,,N/A-StillEmployed,Active,Production       ,Janet King,4.52,4
+"Dunne, Amy",10211,1,3,62514,Production Technician I,09/23/73,F,4/26/2010,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,2.9,6
+"Eaton, Marianne",10064,1,3,60070,Production Technician I,09-05-91,F,04-04-11,06-06-17,military,Voluntarily Terminated,Production       ,Kissy Sullivan,5,7
+"Engdahl, Jean",10247,0,3,48888,Production Technician I,05/31/74,M ,11-10-14,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.7,8
+"England, Rex",10235,1,3,54285,Production Technician I,08/25/78,M ,3/31/2014,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.2,3
+"Erilus, Angela",10299,3,1,56847,Production Technician II,08/25/89,F,07-07-14,,N/A-StillEmployed,Active,Production       ,Michael Albert,3,5
+"Estremera, Miguel",10280,0,2,60340,Production Technician I,09-02-83,M ,04-02-12,9/27/2018,attendance,Terminated for Cause,Production       ,Michael Albert,5,16
+"Evensen, April",10296,0,2,59124,Production Technician I,05-06-89,F,2/17/2014,2/25/2018,"no-call, no-show",Terminated for Cause,Production       ,Elijiah Gray,2.3,19
+"Exantus, Susan",10290,1,2,99280,Software Engineer,05/15/87,F,05-02-11,06-05-13,attendance,Terminated for Cause,Software Engineering,Alex Sweetwater,2.1,19
+"Faller, Megan ",10263,1,3,71776,Production Technician II,09/22/78,F,07-07-14,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.4,17
+"Fancett, Nicole",10136,0,3,65902,Production Technician II,09/27/87,F,2/17/2014,,N/A-StillEmployed,Active,Production       ,Webster Butler,4,7
+"Ferguson, Susan",10189,1,3,57748,Production Technician I,04/14/55,F,11-07-11,5/17/2016,military,Voluntarily Terminated,Production       ,Webster Butler,3.13,16
+"Fernandes, Nilson  ",10308,1,1,64057,Production Technician I,10/18/89,M ,05-11-15,,N/A-StillEmployed,Active,Production       ,Amy Dunn,1.56,15
+"Fett, Boba",10309,0,1,53366,Network Engineer,06/18/87,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,1.2,2
+"Fidelia,  Libby",10049,1,3,58530,Production Technician I,03/16/81,F,01-09-12,,N/A-StillEmployed,Active,Production       ,Brannon Miller,5,19
+"Fitzpatrick, Michael  J",10093,0,3,72609,Production Technician II,10-01-81,M ,5/16/2011,6/24/2013,hours,Voluntarily Terminated,Production       ,Amy Dunn,4.76,20
+"Foreman, Tanya",10163,1,3,55965,Production Technician II,11-08-83,F,04-04-11,01-09-13,career change,Voluntarily Terminated,Production       ,Ketsia Liebig,3.66,6
+"Forrest, Alex",10305,1,3,70187,Area Sales Manager,07-07-75,M ,9/29/2014,8/19/2018,Fatal attraction,Terminated for Cause,Sales,Lynn Daneault,2,7
+"Foss, Jason",10015,0,4,178000,IT Director,07-05-80,M ,4/15/2011,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,5,15
+"Foster-Baker, Amy",10080,1,3,99351,Sr. Accountant,04/16/79,F,01-05-09,,N/A-StillEmployed,Active,Admin Offices,Board of Directors,5,3
+"Fraval, Maruk ",10258,0,3,67251,Area Sales Manager,08/28/63,M ,09-06-11,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.3,7
+"Galia, Lisa",10273,0,3,65707,IT Support,07-06-68,F,05-01-10,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,4.7,1
+"Garcia, Raul",10111,0,3,52249,Production Technician I,09/15/85,M ,3/30/2015,,N/A-StillEmployed,Active,Production       ,David Stanley,4.5,5
+"Gaul, Barbara",10257,0,3,53171,Production Technician I,12-02-83,F,5/16/2011,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.2,12
+"Gentry, Mildred",10159,1,3,51337,Production Technician I,10-01-90,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Michael Albert,3.73,19
+"Gerke, Melisa",10122,2,3,51505,Production Technician I,05/15/70,F,11-07-11,11/15/2016,hours,Voluntarily Terminated,Production       ,Elijiah Gray,4.24,2
+"Gill, Whitney  ",10142,4,3,59370,Area Sales Manager,07-10-71,F,07-07-14,09-05-15,attendance,Terminated for Cause,Sales,John Smith,3.97,7
+"Gilles, Alex",10283,1,2,54933,Production Technician I,08-09-74,M ,04-02-12,6/25/2015,military,Voluntarily Terminated,Production       ,Webster Butler,3.97,15
+"Girifalco, Evelyn",10018,0,4,57815,Production Technician I,05-08-80,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Amy Dunn,3.9,3
+"Givens, Myriam",10255,0,3,61555,Area Sales Manager,09/22/89,F,2/16/2015,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.5,20
+"Goble, Taisha",10246,0,3,114800,Database Administrator,10/23/71,F,2/16/2015,3/15/2015,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,4.6,10
+"Goeth, Amon",10228,1,3,74679,IT Support,11/24/89,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,4.3,20
+"Gold, Shenice  ",10243,0,3,53018,Production Technician I,06/18/92,F,11-11-13,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.3,7
+"Gonzalez, Cayo",10031,2,4,59892,Production Technician I,09/29/69,M ,07-11-11,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.5,1
+"Gonzalez, Juan",10300,1,1,68898,Production Technician II,10-12-64,M ,4/26/2010,5/30/2011,career change,Voluntarily Terminated,Production       ,Brannon Miller,3,10
+"Gonzalez, Maria",10101,3,3,61242,IT Support,04/16/81,F,01-05-15,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,4.61,11
+"Good, Susan",10237,1,3,66825,Production Technician II,05/25/86,F,05-12-14,,N/A-StillEmployed,Active,Production       ,David Stanley,4.6,20
+"Gordon, David",10051,1,3,48285,Production Technician I,05/21/79,M ,07-02-12,,N/A-StillEmployed,Active,Production       ,David Stanley,5,2
+"Gosciminski, Phylicia  ",10218,3,3,66149,Production Technician II,12-08-83,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.4,1
+"Goyal, Roxana",10256,1,3,49256,Production Technician I,10-09-74,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.1,3
+"Gray, Elijiah  ",10098,2,3,62957,Production Manager,07-11-81,M ,06-02-15,,N/A-StillEmployed,Active,Production       ,Janet King,4.63,2
+"Gross, Paula",10059,2,3,63813,Production Technician I,05/21/83,F,2/21/2011,01-11-14,more money,Voluntarily Terminated,Production       ,Kelley Spirea,5,17
+"Gruber, Hans",10234,1,3,99020,BI Developer,06/30/89,M ,4/20/2017,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,4.2,8
+"Guilianno, Mike",10109,0,3,71707,Area Sales Manager,02-09-69,M ,03-07-12,10/31/2014,relocation out of area,Voluntarily Terminated,Sales,John Smith,4.5,20
+"Handschiegl, Joanne",10125,1,3,54828,Production Technician I,03/23/77,F,11/28/2011,,N/A-StillEmployed,Active,Production       ,Michael Albert,4.2,13
+"Hankard, Earnest",10074,0,3,64246,Production Technician II,08-10-88,M ,11-11-13,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,5,20
+"Harrington, Christie ",10097,0,3,52177,Production Technician I,08/18/52,F,01-09-12,12/15/2015,retiring,Voluntarily Terminated,Production       ,Webster Butler,4.64,8
+"Harrison, Kara",10007,1,4,62065,Production Technician I,05-02-74,F,05-12-14,,N/A-StillEmployed,Active,Production       ,Amy Dunn,4.76,5
+"Heitzman, Anthony",10129,0,3,46998,Production Technician I,01-04-84,M ,8/13/2012,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.17,1
+"Hendrickson, Trina",10075,0,3,68099,Production Technician II,08/27/72,F,01-10-11,6/18/2013,hours,Voluntarily Terminated,Production       ,Kelley Spirea,5,15
+"Hitchcock, Alfred",10167,1,3,70545,Area Sales Manager,09/14/88,M ,8/18/2014,,N/A-StillEmployed,Active,Sales,John Smith,3.6,9
+"Homberger, Adrienne  J",10195,1,3,63478,Production Technician II,02/16/84,F,8/15/2011,04-07-12,relocation out of area,Voluntarily Terminated,Production       ,Michael Albert,3.03,16
+"Horton, Jayne",10112,0,3,97999,Database Administrator,02/21/84,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Simon Roup,4.48,4
+"Houlihan, Debra",10272,1,3,180000,Director of Sales,03/17/66,F,05-05-14,,N/A-StillEmployed,Active,Sales,Janet King,4.5,19
+"Howard, Estelle",10182,1,3,49920,Administrative Assistant,09/16/85,F,2/16/2015,4/15/2015,"no-call, no-show",Terminated for Cause,Admin Offices,Brandon R. LeBlanc,3.24,6
+"Hudson, Jane",10248,0,3,55425,Production Technician I,06-10-86,F,2/20/2012,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.8,4
+"Hunts, Julissa",10201,0,3,69340,Production Technician II,03-11-84,F,06-06-16,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,3,4
+"Hutter, Rosalie",10214,3,3,64995,Production Technician II,05-07-92,F,06-05-15,,N/A-StillEmployed,Active,Production       ,Webster Butler,4.5,6
+"Huynh, Ming",10160,2,3,68182,Production Technician II,09/22/76,F,2/21/2011,04-01-13,unhappy,Voluntarily Terminated,Production       ,Amy Dunn,3.72,18
+"Immediato, Walter",10289,1,2,83082,Production Manager,11/15/76,M ,2/21/2011,9/24/2012,unhappy,Voluntarily Terminated,Production       ,Janet King,2.34,4
+"Ivey, Rose ",10139,0,3,51908,Production Technician I,01/28/91,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Brannon Miller,3.99,14
+"Jackson, Maryellen",10227,0,3,61242,Production Technician I,09-11-72,F,11-05-12,,N/A-StillEmployed,Active,Production       ,David Stanley,4.1,7
+"Jacobi, Hannah  ",10236,2,3,45069,Production Technician I,03/22/66,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.3,7
+"Jeannite, Tayana",10009,2,4,60724,Production Technician II,11-06-86,F,07-05-11,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.6,11
+"Jhaveri, Sneha  ",10060,3,3,60436,Production Technician I,04/13/64,F,01-06-14,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,5,9
+"Johnson, George",10034,1,4,46837,Production Technician I,08/19/59,M ,11-07-11,4/29/2018,more money,Voluntarily Terminated,Production       ,Michael Albert,4.7,9
+"Johnson, Noelle ",10156,1,3,105700,Database Administrator,11-07-86,F,01-05-15,,N/A-StillEmployed,Active,IT/IS,Simon Roup,3.75,2
+"Johnston, Yen",10036,0,4,63322,Production Technician II,09-08-69,F,07-07-14,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.3,1
+"Jung, Judy  ",10138,1,3,61154,Production Technician I,04/17/86,F,01-10-11,04-01-16,unhappy,Voluntarily Terminated,Production       ,Elijiah Gray,4,4
+"Kampew, Donysha",10244,0,3,68999,Sales Manager,11-11-89,F,11-07-11,4/24/2014,maternity leave - did not return,Voluntarily Terminated,Sales,Debra Houlihan,4.5,2
+"Keatts, Kramer ",10192,0,3,50482,Production Technician I,01/19/76,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Michael Albert,3.07,10
+"Khemmich, Bartholemew",10231,0,3,65310,Area Sales Manager,11/27/79,M ,8/19/2013,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.3,13
+"King, Janet",10089,1,3,250000,President & CEO,09/21/54,F,07-02-12,,N/A-StillEmployed,Active,Executive Office,Board of Directors,4.83,10
+"Kinsella, Kathleen  ",10166,1,3,54005,Production Technician I,12-08-73,F,9/26/2011,06-04-15,more money,Voluntarily Terminated,Production       ,Webster Butler,3.6,16
+"Kirill, Alexandra  ",10170,1,3,45433,Production Technician I,10-08-70,F,9/26/2011,01-09-14,more money,Voluntarily Terminated,Production       ,Amy Dunn,3.49,6
+"Knapp, Bradley  J",10208,0,3,46654,Production Technician I,11-10-77,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,3.1,3
+"Kretschmer, John",10176,1,3,63973,Production Technician I,02-02-80,M ,01-10-11,,N/A-StillEmployed,Active,Production       ,Brannon Miller,3.38,17
+"Kreuger, Freddy",10165,0,3,71339,Area Sales Manager,02/24/69,M ,03-07-11,,N/A-StillEmployed,Active,Sales,John Smith,3.65,20
+"Lajiri,  Jyoti",10113,1,3,93206,Sr. Network Engineer,04/23/86,M ,11-10-14,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,4.46,7
+"Landa, Hans",10092,1,3,82758,Production Manager,07-01-72,M ,01-10-11,12-12-15,attendance,Terminated for Cause,Production       ,Janet King,4.78,9
+"Langford, Lindsey",10106,2,3,66074,Production Technician II,07/25/79,F,01-07-13,3/31/2014,Another position,Voluntarily Terminated,Production       ,David Stanley,4.52,20
+"Langton, Enrico",10052,1,3,46120,Production Technician I,12-09-86,M ,07-09-12,,N/A-StillEmployed,Active,Production       ,David Stanley,5,13
+"LaRotonda, William  ",10038,2,3,64520,Accountant I,04/26/84,M ,01-06-14,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,5,3
+"Latif, Mohammed",10249,1,3,61962,Production Technician II,05-09-84,M ,04-02-12,4/15/2013,more money,Voluntarily Terminated,Production       ,Kissy Sullivan,4.9,20
+"Le, Binh",10232,0,3,81584,Senior BI Developer,06/14/87,F,10-02-16,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,4.1,2
+"Leach, Dallas",10087,0,3,63676,Production Technician I,01/17/79,F,9/26/2011,8/19/2018,return to school,Voluntarily Terminated,Production       ,Kissy Sullivan,4.88,17
+"LeBlanc, Brandon  R",10134,1,3,93046,Shared Services Manager,06-10-84,M ,01-05-16,,N/A-StillEmployed,Active,Admin Offices,Janet King,4.1,20
+"Lecter, Hannibal",10251,1,3,64738,Production Technician I,09-02-82,M ,5/14/2012,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.1,10
+"Leruth, Giovanni",10103,3,3,70468,Area Sales Manager,12/27/88,M ,4/30/2012,,N/A-StillEmployed,Active,Sales,John Smith,4.53,16
+"Liebig, Ketsia",10017,1,4,77915,Production Manager,10/26/81,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Janet King,4.1,11
+"Linares, Marilyn ",10186,1,3,52624,Production Technician I,03/26/81,F,07-05-11,9/26/2018,unhappy,Voluntarily Terminated,Production       ,Michael Albert,3.18,16
+"Linden, Mathew",10137,1,3,63450,Production Technician II,03/19/79,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4,7
+"Lindsay, Leonara ",10008,0,4,51777,IT Support,10-05-88,F,1/21/2011,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,4.64,14
+"Lundy, Susan",10096,4,3,67237,Production Technician II,12/26/76,F,07-08-13,9/15/2016,more money,Voluntarily Terminated,Production       ,Michael Albert,4.65,15
+"Lunquist, Lisa",10035,0,4,73330,Production Technician II,03/28/82,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.2,19
+"Lydon, Allison",10057,1,3,52057,Production Technician I,10/22/75,F,2/16/2015,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,5,6
+"Lynch, Lindsay",10004,0,4,47434,Production Technician I,02/14/73,F,11-07-11,11/14/2015,Another position,Voluntarily Terminated,Production       ,Webster Butler,5,17
+"MacLennan, Samuel",10191,4,3,52788,Production Technician I,11-09-72,M ,9/24/2012,9/26/2017,hours,Voluntarily Terminated,Production       ,Amy Dunn,3.08,18
+"Mahoney, Lauren  ",10219,0,3,45395,Production Technician I,07-07-86,F,01-06-14,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,4.6,14
+"Manchester, Robyn",10077,1,3,62385,Production Technician II,08/25/76,F,05-11-16,,N/A-StillEmployed,Active,Production       ,Webster Butler,5,4
+"Mancuso, Karen",10073,1,3,68407,Production Technician II,12-10-86,F,07-05-11,8/19/2012,Another position,Voluntarily Terminated,Production       ,Amy Dunn,5,16
+"Mangal, Debbie",10279,1,3,61349,Production Technician I,11-07-74,F,11-11-13,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.1,11
+"Martin, Sandra",10110,0,3,105688,Software Engineer,11-07-87,F,11-11-13,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,4.5,14
+"Maurice, Shana",10053,1,3,54132,Production Technician I,11/22/77,F,5/31/2011,,N/A-StillEmployed,Active,Production       ,David Stanley,5,8
+"Carthy, B'rigit",10076,0,3,55315,Production Technician II,05/21/87,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,5,16
+"Mckenna, Sandy",10145,1,3,62810,Production Technician I,01-07-87,F,01-07-13,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,3.93,20
+"McKinzie, Jac",10202,1,3,63291,Area Sales Manager,07-01-84,M ,07-06-16,,N/A-StillEmployed,Active,Sales,Lynn Daneault,3.4,7
+"Meads, Elizabeth",10128,0,3,62659,Production Technician I,05/30/68,F,04-02-12,11-11-16,Another position,Voluntarily Terminated,Production       ,Kelley Spirea,4.18,17
+"Medeiros, Jennifer",10068,0,3,55688,Production Technician I,09/22/76,F,3/30/2015,,N/A-StillEmployed,Active,Production       ,Michael Albert,5,10
+"Miller, Brannon",10116,0,3,83667,Production Manager,08-10-81,M ,8/16/2012,,N/A-StillEmployed,Active,Production       ,Janet King,4.37,2
+"Miller, Ned",10298,0,1,55800,Production Technician II,06/29/85,M ,8/15/2011,09-04-14,unhappy,Voluntarily Terminated,Production       ,Brannon Miller,3,6
+"Monkfish, Erasumus",10213,1,3,58207,Production Technician II,08/17/92,M ,11-07-11,,N/A-StillEmployed,Active,Production       ,David Stanley,3.7,14
+"Monroe, Peter",10288,1,2,157000,IT Manager - Infra,10-05-86,M ,2/15/2012,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,2.39,13
+"Monterro, Luisa",10025,0,4,72460,Production Technician II,04/24/70,F,5/13/2013,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.7,1
+"Moran, Patrick",10223,0,3,72106,Production Technician II,12-03-76,M ,01-09-12,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.1,12
+"Morway, Tanya",10151,1,3,52599,Network Engineer,04-04-79,F,2/16/2015,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,3.81,6
+"Motlagh,  Dawn",10254,2,3,63430,Production Technician I,07-07-84,F,04-01-13,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.4,18
+"Moumanil, Maliki ",10120,3,3,74417,Production Technician II,12-01-74,M ,5/13/2013,,N/A-StillEmployed,Active,Production       ,Michael Albert,,11
+"Myers, Michael",10216,0,3,57575,Production Technician I,04/18/80,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.1,13
+"Navathe, Kurt",10079,0,3,87921,Senior BI Developer,04/25/70,M ,02-10-17,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,5,17
+"Ndzi, Colombui",10215,0,3,50470,Production Technician I,05-02-89,M ,9/26/2011,04-04-14,return to school,Voluntarily Terminated,Production       ,Webster Butler,4.3,19
+"Ndzi, Horia",10185,1,3,46664,Production Technician I,03/28/83,M ,04-01-13,5/25/2016,more money,Voluntarily Terminated,Production       ,Amy Dunn,3.18,10
+"Newman, Richard ",10063,1,3,48495,Production Technician I,04-08-77,M ,05-12-14,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,5,11
+"Ngodup, Shari ",10037,3,4,52984,Production Technician I,06-03-67,F,04-01-13,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4,12
+"Nguyen, Dheepa",10042,0,3,63695,Area Sales Manager,03/31/89,F,07-08-13,,N/A-StillEmployed,Active,Sales,Lynn Daneault,5,2
+"Nguyen, Lei-Ming",10206,0,3,62061,Production Technician I,07-07-84,F,07-08-13,,N/A-StillEmployed,Active,Production       ,David Stanley,3.6,4
+"Nowlan, Kristie",10104,0,3,66738,Production Technician II,11/23/85,F,11-10-14,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.53,5
+"O'hare, Lynn",10303,0,1,52674,Production Technician I,09/30/80,F,3/31/2014,05-01-18,performance,Terminated for Cause,Production       ,Kissy Sullivan,2.33,3
+"Oliver, Brooke ",10078,1,3,71966,Production Technician II,02-11-52,F,5/14/2012,8/19/2013,unhappy,Voluntarily Terminated,Production       ,Webster Butler,5,17
+"Onque, Jasmine",10121,0,3,63051,Area Sales Manager,05-11-90,F,9/30/2013,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.28,1
+"Osturnka, Adeel",10021,1,4,47414,Production Technician I,12-11-76,M ,9/30/2013,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,5,13
+"Owad, Clinton",10281,0,2,53060,Production Technician I,11/24/79,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Michael Albert,4.25,6
+"Ozark, Travis",10041,0,3,68829,Area Sales Manager,05/19/82,M ,01-05-15,,N/A-StillEmployed,Active,Sales,John Smith,5,18
+"Panjwani, Nina",10148,1,3,63515,Production Technician I,05-01-79,F,02-07-11,01-12-14,Another position,Voluntarily Terminated,Production       ,Elijiah Gray,3.89,7
+"Patronick, Lucas",10005,0,4,108987,Software Engineer,02/20/79,M ,11-07-11,09-07-15,Another position,Voluntarily Terminated,Software Engineering,Alex Sweetwater,5,13
+"Pearson, Randall",10259,1,3,93093,Data Analyst,09-05-84,M ,12-01-14,05-01-16,performance,Voluntarily Terminated,IT/IS,Simon Roup,4.7,19
+"Smith, Martin",10286,0,2,53564,Production Technician I,03/17/88,M ,01-10-11,12/28/2017,career change,Voluntarily Terminated,Production       ,Webster Butler,3.54,15
+"Pelletier, Ermine",10297,1,2,60270,Production Technician II,07/18/89,F,07-05-11,9/15/2015,unhappy,Voluntarily Terminated,Production       ,Amy Dunn,2.4,2
+"Perry, Shakira",10171,0,3,45998,Production Technician I,07/20/86,F,5/16/2011,10/25/2015,medical issues,Voluntarily Terminated,Production       ,Amy Dunn,3.45,5
+"Peters, Lauren",10032,1,4,57954,Production Technician II,08/17/86,F,5/16/2011,02-04-13,more money,Voluntarily Terminated,Production       ,Ketsia Liebig,4.2,12
+"Peterson, Ebonee  ",10130,1,3,74669,Production Manager,05-09-77,F,10/25/2010,5/18/2016,Another position,Voluntarily Terminated,Production       ,Janet King,4.16,6
+"Petingill, Shana  ",10217,1,3,74226,Production Technician II,03-10-79,F,04-02-12,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.3,14
+"Petrowsky, Thelma",10016,1,4,93554,Data Analyst,09/16/84,F,11-10-14,,N/A-StillEmployed,Active,IT/IS,Simon Roup,,16
+"Pham, Hong",10050,1,3,64724,Production Technician I,03-06-88,M ,07-05-11,11/30/2012,more money,Voluntarily Terminated,Production       ,Brannon Miller,5,13
+"Pitt, Brad ",10164,0,3,47001,Production Technician I,11/23/81,M ,11-05-07,,N/A-StillEmployed,Active,Production       ,David Stanley,3.66,15
+"Potts, Xana",10124,1,3,61844,Area Sales Manager,08/29/88,F,01-09-12,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.2,9
+"Power, Morissa",10187,2,3,46799,Production Technician I,10/15/84,F,5/16/2011,06-04-18,Another position,Voluntarily Terminated,Production       ,Kissy Sullivan,3.17,14
+"Punjabhi, Louis  ",10225,0,3,59472,Production Technician I,06/19/61,M ,01-06-14,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.8,14
+"Purinton, Janine",10262,2,3,46430,Production Technician I,09/22/70,F,9/24/2012,6/18/2013,unhappy,Voluntarily Terminated,Production       ,Kissy Sullivan,4.5,16
+"Quinn, Sean",10131,1,3,83363,Software Engineer,11-06-84,M ,2/21/2011,8/15/2015,career change,Voluntarily Terminated,Software Engineering,Janet King,4.15,4
+"Rachael, Maggie",10239,1,3,95920,BI Developer,05-12-80,F,10-02-16,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,4.4,10
+"Rarrick, Quinn",10152,2,3,61729,Production Technician I,12/31/84,M ,9/26/2011,04-07-18,more money,Voluntarily Terminated,Production       ,Michael Albert,3.8,19
+"Ren, Kylo",10140,1,3,61809,Area Sales Manager,10-12-54,M ,05-12-14,,N/A-StillEmployed,Active,Sales,John Smith,3.98,4
+"Rhoads, Thomas",10058,2,3,45115,Production Technician I,07/22/82,M ,5/16/2011,1/15/2016,retiring,Voluntarily Terminated,Production       ,Elijiah Gray,5,11
+"Rivera, Haley  ",10011,1,4,46738,Production Technician I,01-12-73,F,11/28/2011,,N/A-StillEmployed,Active,Production       ,Webster Butler,4.36,16
+"Roberson, May",10230,2,3,64971,Production Technician II,09-05-81,F,9/26/2011,10/22/2011,return to school,Voluntarily Terminated,Production       ,David Stanley,4.5,10
+"Robertson, Peter",10224,1,3,55578,Production Technician II,07-03-72,M ,07-05-11,02-08-12,Another position,Voluntarily Terminated,Production       ,Kissy Sullivan,4.2,13
+"Robinson, Alain  ",10047,1,3,50428,Production Technician I,01-07-74,M ,01-10-11,1/26/2016,attendance,Voluntarily Terminated,Production       ,Amy Dunn,5,11
+"Robinson, Cherly",10285,1,2,61422,Production Technician I,01-07-85,F,01-10-11,5/17/2016,attendance,Terminated for Cause,Production       ,Ketsia Liebig,3.6,16
+"Robinson, Elias",10020,4,4,63353,Production Technician I,01/28/85,M ,07-08-13,,N/A-StillEmployed,Active,Production       ,Brannon Miller,3.6,4
+"Roby, Lori ",10162,1,3,89883,Data Analyst,10-11-81,F,2/16/2015,,N/A-StillEmployed,Active,IT/IS,Simon Roup,3.69,15
+"Roehrich, Bianca",10149,0,3,120000,Principal Data Architect,05/27/73,F,01-05-15,11-10-18,Another position,Voluntarily Terminated,IT/IS,Simon Roup,3.88,12
+"Roper, Katie",10086,0,3,150290,Data Architect,11/21/72,F,01-07-17,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,4.94,17
+"Rose, Ashley  ",10054,3,3,60627,Production Technician I,12-05-74,F,01-06-14,,N/A-StillEmployed,Active,Production       ,David Stanley,5,8
+"Rossetti, Bruno",10065,0,3,53180,Production Technician I,03/18/87,M ,04-04-11,8/13/2018,Another position,Voluntarily Terminated,Production       ,Kissy Sullivan,5,4
+"Roup,Simon",10198,0,3,140920,IT Manager - DB,04-05-73,M ,1/20/2013,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,3.6,13
+"Ruiz, Ricardo",10222,2,3,148999,IT Manager - DB,01-04-64,M ,01-09-12,11-04-15,hours,Voluntarily Terminated,IT/IS,Jennifer Zamora,4.3,8
+"Saada, Adell",10126,1,3,86214,Software Engineer,07/24/86,F,11-05-12,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,4.2,2
+"Saar-Beckles, Melinda",10295,0,2,47750,Production Technician I,06-06-68,F,07-04-16,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,2.6,4
+"Sadki, Nore  ",10260,0,3,46428,Production Technician I,12/21/74,M ,01-05-09,7/30/2018,relocation out of area,Voluntarily Terminated,Production       ,Michael Albert,4.6,7
+"Sahoo, Adil",10233,1,3,57975,Production Technician II,04/26/86,M ,8/30/2010,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.1,13
+"Salter, Jason",10229,2,3,88527,Data Analyst ,12/17/87,M ,01-05-15,10/31/2015,hours,Voluntarily Terminated,IT/IS,Simon Roup,4.2,2
+"Sander, Kamrin",10169,1,3,56147,Production Technician I,07-10-88,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,3.51,2
+"Sewkumar, Nori",10071,0,3,50923,Production Technician I,03-10-75,F,9/30/2013,,N/A-StillEmployed,Active,Production       ,Webster Butler,5,14
+"Shepard, Anita ",10179,1,3,50750,Network Engineer,04/14/81,F,9/30/2014,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,3.31,7
+"Shields, Seffi",10091,1,3,52087,Production Technician I,08/24/85,F,8/19/2013,,N/A-StillEmployed,Active,Production       ,Amy Dunn,4.81,15
+"Simard, Kramer",10178,1,3,87826,Data Analyst,02-08-70,M ,01-05-15,,N/A-StillEmployed,Active,IT/IS,Simon Roup,3.32,16
+"Singh, Nan ",10039,0,3,51920,Administrative Assistant,05/19/88,F,05-01-15,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,5,2
+"Sloan, Constance",10095,0,3,63878,Production Technician II,11/25/87,F,10/26/2009,04-08-15,maternity leave - did not return,Voluntarily Terminated,Production       ,Michael Albert,4.68,20
+"Smith, Joe",10027,0,4,60656,Production Technician II,10/30/63,M ,9/29/2014,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,4.3,4
+"Smith, John",10291,2,2,72992,Sales Manager,08/16/84,M ,5/18/2014,,N/A-StillEmployed,Active,Sales,Debra Houlihan,2.4,16
+"Smith, Leigh Ann",10153,1,3,55000,Administrative Assistant,06/14/87,F,9/26/2011,9/25/2013,career change,Voluntarily Terminated,Admin Offices,Brandon R. LeBlanc,3.8,17
+"Smith, Sade",10157,0,3,58939,Production Technician I,02-02-65,F,11-11-13,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,3.73,16
+"Soto, Julia ",10119,1,3,66593,IT Support,03-12-73,F,06-10-11,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,4.3,19
+"Soze, Keyser",10180,1,3,87565,Sr. Network Engineer,02-09-83,M ,6/30/2016,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,3.27,13
+"Sparks, Taylor  ",10302,1,1,64021,Production Technician I,07/20/68,F,2/20/2012,,N/A-StillEmployed,Active,Production       ,Brannon Miller,2.4,20
+"Spirea, Kelley",10090,1,3,65714,Production Manager,09/30/75,F,10-02-12,,N/A-StillEmployed,Active,Production       ,Janet King,4.83,15
+"Squatrito, Kristen",10030,2,4,62425,Production Technician I,03/26/73,F,5/13/2013,6/29/2015,unhappy,Voluntarily Terminated,Production       ,David Stanley,4.1,16
+"Stanford,Barbara  M",10278,2,3,47961,Production Technician I,08/25/82,F,01-10-11,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.1,9
+"Stansfield, Norman",10307,1,1,58273,Area Sales Manager,05-09-74,M ,05-12-14,,N/A-StillEmployed,Active,Sales,Lynn Daneault,1.81,5
+"Steans, Tyrone  ",10147,0,3,63003,Accountant I,09-01-86,M ,9/29/2014,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,3.9,9
+"Stoica, Rick",10266,1,3,61355,Production Technician I,03/14/85,M ,2/17/2014,,N/A-StillEmployed,Active,Production       ,Kelley Spirea,4.7,4
+"Strong, Caitrin",10241,1,3,60120,Area Sales Manager,05-12-89,F,9/27/2010,,N/A-StillEmployed,Active,Sales,John Smith,4.1,18
+"Sullivan, Kissy ",10158,1,3,63682,Production Manager,03/28/78,F,01-08-09,,N/A-StillEmployed,Active,Production       ,Janet King,3.73,12
+"Sullivan, Timothy",10117,1,3,63025,Production Technician I,10-07-82,M ,01-05-15,,N/A-StillEmployed,Active,Production       ,Michael Albert,4.36,10
+"Sutwell, Barbara",10209,0,3,59238,Production Technician I,08/15/68,F,5/14/2012,,N/A-StillEmployed,Active,Production       ,Elijiah Gray,3.4,13
+"Szabo, Andrew",10024,0,4,92989,Software Engineer,05-06-83,M ,07-07-14,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,4.5,1
+"Tannen, Biff",10173,1,3,90100,BI Developer,10/24/87,M ,4/20/2017,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,3.4,14
+"Tavares, Desiree  ",10221,1,3,60754,Production Technician I,04-03-75,F,4/27/2009,04-01-13,Another position,Voluntarily Terminated,Production       ,Webster Butler,4.5,11
+"Tejeda, Lenora ",10146,1,3,72202,Production Technician II,05/24/53,F,5/16/2011,07-08-17,Another position,Voluntarily Terminated,Production       ,Elijiah Gray,3.93,3
+"Terry, Sharlene ",10161,0,3,58370,Area Sales Manager,05-07-65,F,9/29/2014,,N/A-StillEmployed,Active,Sales,Lynn Daneault,3.69,18
+"Theamstern, Sophia",10141,0,3,48413,Production Technician I,05-09-65,F,07-05-11,09-05-16,return to school,Voluntarily Terminated,Production       ,Amy Dunn,3.98,1
+"Thibaud, Kenneth",10268,4,3,67176,Production Technician II,09/16/75,M ,6/25/2007,8/30/2010,military,Voluntarily Terminated,Production       ,Webster Butler,4.1,15
+"Tippett, Jeanette",10123,2,3,56339,Production Technician I,06-05-67,F,2/18/2013,,N/A-StillEmployed,Active,Production       ,Brannon Miller,4.21,4
+"Torrence, Jack",10013,3,4,64397,Area Sales Manager,01/15/68,M ,01-09-06,,N/A-StillEmployed,Active,Sales,Lynn Daneault,4.1,6
+"Trang, Mei",10287,0,2,63025,Production Technician I,05/16/83,F,2/17/2014,,N/A-StillEmployed,Active,Production       ,David Stanley,2.44,18
+"Tredinnick, Neville ",10044,1,3,75281,Network Engineer,05-05-88,M ,01-05-15,02-12-16,medical issues,Voluntarily Terminated,IT/IS,Peter Monroe,5,11
+"True, Edward",10102,0,3,100416,Software Engineer,06/14/83,M ,2/18/2013,4/15/2018,medical issues,Voluntarily Terminated,Software Engineering,Alex Sweetwater,4.6,9
+"Trzeciak, Cybil",10270,0,3,74813,Production Technician II,03/15/85,F,01-10-11,07-02-14,unhappy,Voluntarily Terminated,Production       ,Amy Dunn,4.4,5
+"Turpin, Jumil",10045,1,3,76029,Network Engineer,03/31/69,M ,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,5,8
+"Valentin,Jackie",10205,1,3,57859,Area Sales Manager,05/23/91,F,07-05-11,,N/A-StillEmployed,Active,Sales,John Smith,2.81,16
+"Veera, Abdellah ",10014,2,4,58523,Production Technician I,01/31/87,M ,8/13/2012,02-05-16,maternity leave - did not return,Voluntarily Terminated,Production       ,Kissy Sullivan,4.5,15
+"Vega, Vincent",10144,2,3,88976,Production Manager,10-10-68,M ,08-01-11,,N/A-StillEmployed,Active,Production       ,Janet King,3.93,19
+"Villanueva, Noah",10253,0,3,55875,Area Sales Manager,07-11-89,M ,03-05-12,,N/A-StillEmployed,Active,Sales,John Smith,4.5,11
+"Voldemort, Lord",10118,1,3,113999,Database Administrator,08-07-86,M ,2/16/2015,2/22/2017,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,4.33,9
+"Volk, Colleen",10022,1,4,49773,Production Technician I,06-03-86,F,9/26/2011,02-08-16,gross misconduct,Terminated for Cause,Production       ,Kelley Spirea,4.3,18
+"Von Massenbach, Anna",10183,0,3,62068,Production Technician I,04-06-85,F,07-05-15,,N/A-StillEmployed,Active,Production       ,Michael Albert,3.21,7
+"Walker, Roger",10190,0,3,66541,Production Technician II,02-10-76,M ,8/18/2014,,N/A-StillEmployed,Active,Production       ,Ketsia Liebig,3.11,4
+"Wallace, Courtney  E",10274,1,3,80512,Production Manager,11/14/55,F,9/26/2011,01-02-12,Another position,Voluntarily Terminated,Production       ,Janet King,4.5,5
+"Wallace, Theresa",10293,0,2,50274,Production Technician I,08-02-80,F,8/13/2012,09-01-15,career change,Voluntarily Terminated,Production       ,Elijiah Gray,2.5,13
+"Wang, Charlie",10172,0,3,84903,Senior BI Developer,07-08-81,M ,2/15/2017,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,3.42,17
+"Warfield, Sarah",10127,4,3,107226,Sr. Network Engineer,05-02-78,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,4.2,7
+"Whittier, Scott",10072,0,3,58371,Production Technician I,05/24/87,M ,01-10-11,5/15/2014,hours,Voluntarily Terminated,Production       ,Webster Butler,5,11
+"Wilber, Barry",10048,1,3,55140,Production Technician I,09-09-65,M ,5/16/2011,09-07-15,unhappy,Voluntarily Terminated,Production       ,Amy Dunn,5,7
+"Wilkes, Annie",10204,2,3,58062,Production Technician I,07/30/83,F,01-10-11,5/14/2012,Another position,Voluntarily Terminated,Production       ,Ketsia Liebig,3.6,9
+"Williams, Jacquelyn  ",10264,0,3,59728,Production Technician I,10-02-69,F,01-09-12,6/27/2015,relocation out of area,Voluntarily Terminated,Production       ,Ketsia Liebig,4.3,16
+"Winthrop, Jordan  ",10033,0,4,70507,Production Technician II,11-07-58,M ,01-07-13,2/21/2016,retiring,Voluntarily Terminated,Production       ,Brannon Miller,5,7
+"Wolk, Hang  T",10174,0,3,60446,Production Technician II,04/20/85,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,David Stanley,3.4,14
+"Woodson, Jason",10135,0,3,65893,Production Technician II,05-11-85,M ,07-07-14,,N/A-StillEmployed,Active,Production       ,Kissy Sullivan,4.07,13
+"Ybarra, Catherine ",10301,0,1,48513,Production Technician I,05-04-82,F,09-02-08,9/29/2015,Another position,Voluntarily Terminated,Production       ,Brannon Miller,3.2,4
+"Zamora, Jennifer",10010,0,4,220450,CIO,08/30/79,F,04-10-10,,N/A-StillEmployed,Active,IT/IS,Janet King,4.6,16
+"Zhou, Julia",10043,0,3,89292,Data Analyst,02/24/79,F,3/30/2015,,N/A-StillEmployed,Active,IT/IS,Simon Roup,5,11
+"Zima, Colleen",10271,4,3,45046,Production Technician I,08/17/78,F,9/29/2014,,N/A-StillEmployed,Active,Production       ,David Stanley,4.5,2
